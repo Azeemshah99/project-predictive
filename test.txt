@@ -1,0 +1,7 @@
+This is a test file for the project-predictive repository.
+
+Created on: $(date)
+Purpose: Testing git workflow
+
+This file contains sample text to demonstrate the git push functionality.
+You can modify this content as needed for your project.
